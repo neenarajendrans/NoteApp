@@ -1,0 +1,17 @@
+{
+    "notes": [
+      {
+        "id": "1",
+        "title": "Meeting Notes",
+        "content": "Discuss project timelines and goals.",
+        "tags": ["meeting", "planning"]
+      },
+      {
+        "id": "2",
+        "title": "Grocery List",
+        "content": "Remember to buy milk, eggs, and bread.",
+        "tags": ["shopping"]
+      }
+    ]
+  }
+  
